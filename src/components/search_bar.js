@@ -4,6 +4,8 @@ class SearchBar extends Component {
   constructor(props) {
     super(props);
  console.log('videoBrowser');
+  console.log('videoBrowser');
+
     this.state = { term: "" };
   }
 
